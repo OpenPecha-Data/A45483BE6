@@ -1,0 +1,19 @@
+segment_sources:
+  P06BBBA11:
+    type: origin_type
+    relation: translation
+    language: en
+  P4BC81424:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e31cb8f3c7aa4f1f9938da79ca3a88ee:
+    P06BBBA11: 89470e7f35f94ef4a6a62619a74c4b4d
+    P4BC81424: 029cd9b8744e44cbbcc8181d304355b4
+  cdbf9000fdd14a88b158a2950a504af9:
+    P06BBBA11: 658c77238ebd4006b88f25effd674da4
+    P4BC81424: d0220c42b25e4ea7851d31c1652fada5
+  5c1db1aa00994aca9a498f381d97b480:
+    P06BBBA11: f5af5e39f7c544a69f5d4284e582ebea
+    P4BC81424: 6e8ea6616b884a139f5a4034b5f56026

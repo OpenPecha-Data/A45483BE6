@@ -1,0 +1,40 @@
+segment_sources:
+  P06BBBA11:
+    type: origin_type
+    relation: translation
+    language: en
+  P54AE58B4:
+    type: origin_type
+    relation: translation
+    language: de
+  P5390E1AE:
+    type: origin_type
+    relation: translation
+    language: es
+  P00994A3C:
+    type: origin_type
+    relation: translation
+    language: fr
+  P4BC81424:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fa69a50ac05a4bb099080a7d0d7f7e2f:
+    P06BBBA11: 22981307034b4cb39133990ad6c8ac8f
+    P54AE58B4: 1fc0a3767fef45fd831e6001fbb381bd
+    P5390E1AE: 8d52760458a34351a92a99d448b44cf3
+    P00994A3C: c6eec27a59ac4e9e982d320ae624e026
+    P4BC81424: d86c2526920b4ed38b107b0b827444b6
+  128d110c9e8049ae93f3e5b8259549ea:
+    P06BBBA11: 9df10dfb6669484ab436c6e1d55762b6
+    P54AE58B4: 728e1848387f4e63bd9e427461475c79
+    P5390E1AE: b3d5462d3d774923b9f1f6bcf4940e53
+    P00994A3C: 473bde43e8bf45299cc6d10dd5500e87
+    P4BC81424: 850df548bcf945a1aec8c5be9f868c35
+  750eca79282f440ebc3ca4c589610f6b:
+    P06BBBA11: a14b7e50bcb9419a8bc35231bc70eba2
+    P54AE58B4: e0a85bfdb28d4fd5ba3f206c9348f5e6
+    P5390E1AE: ca954bd5db26486aa90acada77f4ef79
+    P00994A3C: 41dfd7a4f44944db80ac3c8e6077ea71
+    P4BC81424: 39d7fe81b26b4b33bf9b0212718ad64e

@@ -1,0 +1,33 @@
+segment_sources:
+  P06BBBA11:
+    type: origin_type
+    relation: translation
+    language: en
+  P5390E1AE:
+    type: origin_type
+    relation: translation
+    language: es
+  P00994A3C:
+    type: origin_type
+    relation: translation
+    language: fr
+  P4BC81424:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c6ca07a8dfa341eda096c91661e7a9c8:
+    P06BBBA11: 61e498dd33a0472d86a3ffdff2d91487
+    P5390E1AE: 23ed2236c2a04976a90eea6399f8c727
+    P00994A3C: 3f748c0ba15d4654a51877a7683155ad
+    P4BC81424: 31f8240b5dc84006a743691d578c7f09
+  e817d4069f1049bfbb6574c82b44d935:
+    P06BBBA11: ebd5040b96eb4d3b94160a2b56de1f13
+    P5390E1AE: c6fec1cf70fa4649a30319b04b83cf04
+    P00994A3C: 7cca2056b86343a4b8d6ab8b9bf06934
+    P4BC81424: 057e1d62acf84c38bdada6f70fb2d310
+  10c64e417aee47cabf2a9259dfb96da9:
+    P06BBBA11: fd9783deaa134cadb20e70d9509531cf
+    P5390E1AE: 0cb6ba1642f34de3bb3879455cc074d6
+    P00994A3C: 71244829c5094b1b95f0707c67e8bee2
+    P4BC81424: 82970d7e42e846268d08821bc8649c7e

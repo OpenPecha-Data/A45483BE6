@@ -1,0 +1,64 @@
+segment_sources:
+  P06BBBA11:
+    type: origin_type
+    relation: translation
+    language: en
+  P54AE58B4:
+    type: origin_type
+    relation: translation
+    language: de
+  P5390E1AE:
+    type: origin_type
+    relation: translation
+    language: es
+  P00994A3C:
+    type: origin_type
+    relation: translation
+    language: fr
+  P4BC81424:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a4e6f5d295df49db8feab9920d785e11:
+    P06BBBA11: 802fde34a037439dabe5fdb7f3f2482b
+    P54AE58B4: 09daf4472fe6463489fa589c23643597
+    P5390E1AE: e0dc68a87e034f7e948700691422594d
+    P00994A3C: c08530dec13645cbaa3fbbf1d7340a6c
+    P4BC81424: 972ed558ce3349aeb96fa88b94e66e0a
+  35286d4329e54171b1efd1969b183d09:
+    P06BBBA11: cf09684d86f644f7a89e64dcf2e83327
+    P54AE58B4: 1c9bc608237f48419a3c739a433f339d
+    P5390E1AE: e62ab740461548e9a5554f04ec8910a7
+    P00994A3C: 30e6f427caf245e79b73ac768c3e9e6f
+    P4BC81424: 61cbeca642884f9da0fa727e73deb01f
+  175c81fe93884f0eac38fb9af5a7cbbe:
+    P06BBBA11: 7b960b6d4eb8469fbc59c2ac371a921f
+    P54AE58B4: f808ee9b8a58434c8025ea10c53ef8e2
+    P5390E1AE: c50cc828ffd14672baf0ab38573c1646
+    P00994A3C: 7136354887e84a0c85c207846df98663
+    P4BC81424: e25f3e45a94b4366b234d5a551effb15
+  a0bf332b1daf4479b7794bc2bb77452f:
+    P06BBBA11: 11e84d3fba614d84a15691b181f7ccfb
+    P54AE58B4: d680e26b300b42c883fe388b36f59e74
+    P5390E1AE: d32f74b7cd6e497281b90cb6dafaeff1
+    P00994A3C: 7982252fbdb044c6b03624e2fe7455f9
+    P4BC81424: 12e448d22a13445d9758fe6e109f09aa
+  2378eee2ab0146a58d4739ce54716963:
+    P06BBBA11: 6d7b172d380b4a9bb384fd8896b5838e
+    P54AE58B4: a37fab1479b446e389fc5dbbfb6d54fb
+    P5390E1AE: 538bc2daeea045409324b49301502712
+    P00994A3C: 0b0ba856a2c349ab9321bfa02c7cd08f
+    P4BC81424: ac6df32be135491099c4fdbed58b623c
+  5465106a1b034029bce6719703247bdb:
+    P06BBBA11: 0a56260bd9b444b8be936a9e4505a53a
+    P54AE58B4: 08cda70747c04332ae11179f521caa0f
+    P5390E1AE: 4a1b2ca0b15744a7913e6a83131c4fd3
+    P00994A3C: 317968b8c8bf4f2d9fb1bbf9cc6a01a4
+    P4BC81424: 55754dc14ae54ae78d5dded2f35ff027
+  39fcd01fcba8479a8d4d6d17d95c9857:
+    P06BBBA11: 3f5b4b0bd768470b8261d7d15da6d58f
+    P54AE58B4: a145fe042a62437aaa6c418bd384f8f2
+    P5390E1AE: 38b83f4502c84d3fb39f058bdbb6e348
+    P00994A3C: c394bdea430c45d9b2fe5238fecf9e9f
+    P4BC81424: ab8dcdcb4f934adf832dc1849cc6c5e0
